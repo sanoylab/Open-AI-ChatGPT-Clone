@@ -21,7 +21,4 @@ Run server
 ```bash
 npm start
 ```
-
-Visit `http://localhost:5000` in your browser.
-
-The endpoint is at `POST http://localhost:5000/openai/generateimage`.
+DEMO: [https://open-ai-chatgpt-clone.onrender.com/index.html](https://open-ai-chatgpt-clone.onrender.com/index.html)
